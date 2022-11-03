@@ -22,8 +22,6 @@
 - [ELENCO E DESCRIZIONE DELLE LIBRERIE INDIVIDUATE](#elenco-e-descrizione-delle-librerie-individuate)
   * [LIBGCRYPT](#libgcrypt)
     + [DESCRIZIONE](#descrizione)
-    + [PUNTI DI FORZA ](#punti-di-forza)
-    + [PUNTI DI DEBOLEZZA ](#punti-di-debolezza)
     + [API](#api)
     + [ESEMPI PRATICI](#esempi-pratici)
     + [ESECUZIONE](#esecuzione)
